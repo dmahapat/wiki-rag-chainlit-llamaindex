@@ -1,0 +1,4 @@
+# Add your OpenRouter API key below.
+# Example: sk-or-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+openrouter_api_key: "GET_YOUR_OWN_KEY_BUDDY"
+

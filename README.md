@@ -63,4 +63,3 @@ Chat app that indexes requested Wikipedia pages and answers questions using Llam
 ## Verify API Key (optional)
 - `python usercode/utils.py` — prints a masked key if found.
 
-

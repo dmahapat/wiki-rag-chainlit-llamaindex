@@ -1,0 +1,38 @@
+# Secrets
+.env
+.env.*
+.secrets.*
+
+# Virtual environments
+.venv/
+venv/
+
+# Python caches/build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# App-specific
+.chainlit/
+data/
+datasets/
+cache/
